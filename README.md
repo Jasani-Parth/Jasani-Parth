@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Jasani-Parth
-- 👀 I’m interested in ...
+- 👀 I’m interested in ML-Algorithms,AI.
 - 🌱 I’m currently learning Django-framework , DSA .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jasaniparth.8902@gmail.com .
-- I Will Add Some More My Projects To This Repo..
+- 📫 How to reach me : Drop mail at jasaniparth.8902@gmail.com .
 
 <!---
 Jasani-Parth/Jasani-Parth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
