@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jasani-Parth
-- 👀 I’m interested in ML-Algorithms,AI.
-- 🌱 I’m currently learning Computer Network , ML Basic Algorithms .
 - 📫 How to reach me : Drop mail at jasaniparth.8902@gmail.com .
 
 <!---
